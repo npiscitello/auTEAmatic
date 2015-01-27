@@ -1,6 +1,6 @@
 package auTEAmatic;
 
-// This class contains all of the logic for the robot
+// This class handles all of the logic for the robot
 public class Logic {
 	
 	// main method, required by all leJOS programs
