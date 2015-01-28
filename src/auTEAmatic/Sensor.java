@@ -25,7 +25,8 @@ public class Sensor {
 			tempRaw = SensorPort.S2.readRawValue();
 			try {
 				Thread.sleep(100);
-			} catch (InterruptedException e) {
+			}
+			catch (InterruptedException e) {
 				// Auto-generated catch block
 				e.printStackTrace();
 			}
